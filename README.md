@@ -21,6 +21,7 @@
 <ul>
   <li><a href="https://policies.google.com/privacy">Google Play Services</a></li>
   <li><a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a></li>
+  <li><a href="https://firebase.google.com/policies/analytics/">Firebase Analytics</a></li>
 </ul>
 
 <p><strong>Log Data</strong></p>
